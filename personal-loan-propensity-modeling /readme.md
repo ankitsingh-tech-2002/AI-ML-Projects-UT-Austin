@@ -1,4 +1,4 @@
-# Personal Loan Propensity Modeling
+# Personal Loan Predictor Modeling
 
 **Domain:** Banking / Marketing Analytics  
 **Part of:** UT Austin PG Program in AI & ML
